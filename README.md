@@ -8,7 +8,7 @@ A clean, modern login and sign-up page built with vanilla HTML, CSS, and JavaScr
 - Sign In & Sign Up toggle (single page, no reload)
 - Form validation with shake animation on errors
 - Password show/hide toggle
-- Forgot Password modal with email check
+- Forgot Password model with email check
 - Social login buttons (Google, Facebook, Twitter, GitHub)
 - Animated network canvas background
 - Animated floating illustration (video)
